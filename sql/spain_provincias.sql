@@ -1,36 +1,10 @@
-# ************************************************************
-# Dump of table "regions". Only spain in this dump.
 # ------------------------------------------------------------
-
-CREATE TABLE `regions` (
-  `id_region` tinyint(4) NOT NULL,
-  `region` varchar(100) NOT NULL DEFAULT '' COMMENT 'Spain=Comunidad Autonoma, France=Region...,
-  `country` char(2) NOT NULL DEFAULT '' COMMENT 'ISO 3166-1 alpha-2 code'
-) ENGINE=InnoDB;
-
-INSERT INTO `regions` (`id_region`, `region`, `country`)
-VALUES
-	(1,'Andalucía','ES'),
-	(2,'Aragón','ES'),
-	(3,'Asturias, Principado de','ES'),
-	(4,'Balears, Illes','ES'),
-	(5,'Canarias','ES'),
-	(6,'Cantabria','ES'),
-	(7,'Castilla y León','ES'),
-	(8,'Castilla - La Mancha','ES'),
-	(9,'Catalunya','ES'),
-	(10,'Comunitat Valenciana','ES'),
-	(11,'Extremadura','ES'),
-	(12,'Galicia','ES'),
-	(13,'Madrid, Comunidad de','ES'),
-	(14,'Murcia, Región de','ES'),
-	(15,'Navarra, Comunidad Foral de','ES'),
-	(16,'País Vasco','ES'),
-	(17,'Rioja, La','ES'),
-	(18,'Ceuta','ES'),
-	(19,'Melilla','ES');
-
-# Dump of table provincias
+# Listado de provincias españolas 2012.
+#
+# Datos extraídos del INE (Instituo Nacional de Estadística)
+#
+# Albert Lombarte
+# Twitter: @alombarte
 # ------------------------------------------------------------
 
 CREATE TABLE `provincias` (

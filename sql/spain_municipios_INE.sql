@@ -7,6 +7,7 @@
 # Fecha actualización de datos: ENERO 2012.
 #
 # Albert Lombarte
+# Twitter: @alombarte
 # ************************************************************
 
 # Dump of table municipios

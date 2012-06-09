@@ -4,13 +4,15 @@
 #
 # For your sanity, rename the table to somthing more usable ;)
 #	
+# Albert Lombarte
+# Twitter: @alombarte
 # ************************************************************
 CREATE TABLE countries_iso_3166_1_alpha_2
 (
 	code CHAR(2) COMMENT 'ISO 3166-1 alpha-2 code', 
 	name varchar(70) COMMENT 'English name of the country',
-	TLD varchar(7) COMMENT 'Top Level Domain(s). UK has two TLDs'
-); -- Place your engine here.
+	TLD varchar(7) COMMENT 'Top Level Domain(s). UK has two TLDs!'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 INSERT INTO countries_iso_3166_1_alpha_2 (code,name,TLD) VALUES
 ('AD','Andorra','.ad'),

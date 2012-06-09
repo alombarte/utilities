@@ -1,3 +1,10 @@
+# ************************************************************
+# List of language codes as referred by ISO-639 authority.
+#
+# Albert Lombarte
+# Twitter: @alombarte
+# ************************************************************
+
 CREATE TABLE `i18n_language_codes` (
   `3letter` char(3) NOT NULL COMMENT 'ISO 639-2 Code',
   `2letter` varchar(2) default NULL COMMENT 'ISO 639-1 Code',

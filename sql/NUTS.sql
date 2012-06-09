@@ -10,16 +10,11 @@
 # 2) Socio-economic analyses of the regions.
 # 3) Framing of EU regional policies.
 # 
-# Regions eligible for aid from the Structural Funds (Objective 1)
-# have been classified at NUTS 2 level.
-# Areas eligible under the other priority objectives have mainly
-# been classified at NUTS 3 level.
-# The Cohesion report has so far mainly been prepared at NUTS 2 level.
-#  
-# 
 # The current NUTS classification valid from 1 January 2012 until
 # 31 December 2014 lists 97 regions at NUTS 1, 270 regions at NUTS 2 and 1294 regions at NUTS 3 level.
 # 
+# Albert Lombarte
+# Twitter: @alombarte
 # ------------------------------------------------------------
 # Examples:
 #
