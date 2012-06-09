@@ -16,3 +16,8 @@ The current NUTS classification valid from 1 January 2012 until 31 December 2014
 Countries in the world
 ----------------------
 List of countries in the world and its TLD, according to ISO-3361.
+
+Languages in the world
+----------------------
+All ISO-639 language codes for MySQL according to the registration authority. See the [article] I wrote at Harecoded.
+[article]: http://www.harecoded.com/all-iso-639-language-codes-for-mysql-329937
