@@ -1,7 +1,14 @@
 # ------------------------------------------------------------
 # Listado de provincias españolas 2012.
 #
-# Datos extraídos del INE (Instituo Nacional de Estadística)
+# Datos extraídos del INE (Instituo Nacional de Estadística).
+#
+# El campo id_provincia debería coincidir con los dos primeros dígitos del código postal
+# de la provincia. Los que tienen un dígito, añadir el 0 delante.
+#
+# Ejemplo:
+# Dado un código postal 08031, tomamos los dos primeros dígitos (08) y vemos que pertenence a prov. Barcelona,
+# Similarmente el código postal 44652 => 44 => província de Teruel
 #
 # Albert Lombarte
 # Twitter: @alombarte
