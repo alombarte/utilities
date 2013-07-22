@@ -21,3 +21,9 @@ Languages in the world
 ----------------------
 All ISO-639 language codes for MySQL according to the registration authority. See the [article] I wrote at Harecoded.
 [article]: http://www.harecoded.com/all-iso-639-language-codes-for-mysql-329937
+
+Spanish "Comunidades Autónomas", "Provincias" and "Municipios"
+--------------------------------------------------------------
+Several SQLs with territorial information of Spain as well as information related to postal codes.
+
+Listados de municipios, comunidades autónomas y provincias. Información útil para el cálculo de provincia basado en código postal.
