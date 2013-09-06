@@ -499,5 +499,4 @@ INSERT INTO i18n_language_codes (3letter,2letter,english_name,french_name) VALUE
 ('zul','zu','Zulu','zoulou'),
 ('zun',NULL,'Zuni','zuni'),
 ('zxx',NULL,'No linguistic content; Not applicable','pas de contenu linguistique; non applicable'),
-('zza',NULL,'Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki','zaza; dimili; dimli; kirdki; kirmanjki; zazaki');; Not applicable','pas de contenu linguistique; non applicable'),
 ('zza',NULL,'Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki','zaza; dimili; dimli; kirdki; kirmanjki; zazaki');
