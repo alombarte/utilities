@@ -8,7 +8,7 @@
 CREATE TABLE `comunidades` (
   `id_comunidad` tinyint(4) NOT NULL,
   `nombre` varchar(100) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf-8;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 INSERT INTO `comunidades` (`id_comunidad`, `nombre`)
 VALUES
