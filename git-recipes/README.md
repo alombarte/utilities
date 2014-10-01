@@ -163,6 +163,9 @@ Create branch from current branch
 Delete a branch
 
 	git branch -d branch-name
+	
+	# From the remote (if origin). Note the colon ":"
+	git push origin :branch-name
 
 
 ## The fast-forward concept
