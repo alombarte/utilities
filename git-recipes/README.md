@@ -132,6 +132,9 @@ Destroy all commits up to a specific hash
 
 	# Destroy forever and goodbye my love:
 	git reset YOURHASH --hard
+	
+	# Destroy last commit (but leave changes uncommitted):
+	git reset --soft HEAD^
 
 But there is always hope... and you didn't lose forever
 
