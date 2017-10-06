@@ -367,7 +367,6 @@ INSERT INTO i18n_language_codes (3letter,2letter,english_name,french_name) VALUE
 ('pra',NULL,'Prakrit languages','prâkrit, langues'),
 ('pro',NULL,'Provençal, Old (to 1500);Occitan, Old (to 1500)','provençal ancien (jusqu\'à 1500); occitan ancien (jusqu\'à 1500)'),
 ('pus','ps','Pushto; Pashto','pachto'),
-('qaa-qtz',NULL,'Reserved for local use','réservée à l\'usage local'),
 ('que','qu','Quechua','quechua'),
 ('raj',NULL,'Rajasthani','rajasthani'),
 ('rap',NULL,'Rapanui','rapanui'),
